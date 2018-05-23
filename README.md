@@ -1,3 +1,2 @@
-# machine_learning
-.ipynb_checkpoints/
-*.pickle
+# HAIT_machine_learning
+主に自分が機械学習の分野で勉強した成果をアップしました。
